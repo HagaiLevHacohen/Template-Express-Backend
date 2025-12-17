@@ -1,4 +1,4 @@
-// controllers/authorController.js
+// controllers/indexController.js
 
 const db = require("../db/queries");
 const CustomNotFoundError = require("../errors/CustomNotFoundError");
